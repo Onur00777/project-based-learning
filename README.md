@@ -25,10 +25,10 @@
 
 ## 🎯 How to Use This Repository
 
-1. 🍴 **Fork this repository** to track your own progress.
-2. 🗂️ **Pick a language & project** that matches your current learning goals.
-3. 💻 **Code along from scratch**, break things, fix them, and make it yours!
-4. 🟢 Keep your streak green & have fun!
+1.  **Fork this repository** to track your own progress.
+2.  **Pick a language & project** that matches your current learning goals.
+3.  **Code along from scratch**, break things, fix them, and make it yours!
+4.  Keep your streak green & have fun!
 
 ---
 
